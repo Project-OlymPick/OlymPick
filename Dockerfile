@@ -33,4 +33,3 @@ ENTRYPOINT ["java", "-jar", "/app/app.jar"]
 
 # 애플리케이션이 사용하는 포트
 EXPOSE 8080
-
